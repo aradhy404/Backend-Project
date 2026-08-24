@@ -1,0 +1,16 @@
+{
+  "name": "production",
+  "version": "1.0.0",
+  "description": "Complete backend",
+  "keywords": [
+    "Backend",
+    "Javascript"
+  ],
+  "license": "ISC",
+  "author": "Aradhy Tripathi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
