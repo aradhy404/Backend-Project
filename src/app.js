@@ -1,5 +1,14 @@
 import express from "expres"
+import cors from "cors"
+import cookieParser from "cookie-parser"
+
 
 const app  = express()
 
-export app default
+
+app.use(cors({
+  origin:process.env.CORS_ORIGIN  
+}))
+
+
+export { app }
