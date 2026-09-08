@@ -1,4 +1,4 @@
-class ApiRespone {
+class ApiResponse {
     constructor(statuscCode,data, message = "Success"){
         this.statuscCode = statuscCode
         this.data = data
