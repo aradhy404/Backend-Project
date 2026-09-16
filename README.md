@@ -48,10 +48,10 @@ MONGODB_URI=your_mongodb_connection_string
 
 As the project grows, endpoints will be documented here.
 
-| Method | Endpoint | Description |
-|---|---|---|
-| GET | `/` | Server status / home route |
-| — | — | More endpoints coming |
+| Method | Endpoint | Description                |
+| ------ | -------- | -------------------------- |
+| GET    | `/`      | Server status / home route |
+| —      | —        | More endpoints coming      |
 
 ## 🎯 Goals
 
