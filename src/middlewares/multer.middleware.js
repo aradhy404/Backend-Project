@@ -15,4 +15,3 @@ const upload = multer({
 });
 
 export { upload };
-setse;
